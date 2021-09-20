@@ -2,3 +2,5 @@ git練習開始
 内容変更ｓ
 .git add
 .git command
+
+内容変更2回目
