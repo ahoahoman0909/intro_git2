@@ -7,3 +7,5 @@ git練習開始
 
 git diff
 
+git追加テキスト
+
